@@ -1,0 +1,13 @@
+{
+  "name": "com.tanuki-nu.show-the-cause",
+  "version": "1.0.0",
+  "displayName": "Show The Cause",
+  "description": "Show The Cause",
+  "unity": "2022.3",
+  "author": {
+    "name": "tanuki-nu"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.x.x" 
+  }
+}
