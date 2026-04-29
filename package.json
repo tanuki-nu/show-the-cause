@@ -8,6 +8,6 @@
     "name": "tanuki-nu"
   },
   "vpmDependencies": {
-    "com.vrchat.worlds": "3.x.x" 
+    "com.vrchat.base": "3.7.0" 
   }
 }
